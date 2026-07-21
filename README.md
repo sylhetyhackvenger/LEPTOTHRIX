@@ -1,10 +1,10 @@
-# Leptothrix Ultimate - Complete Cybersecurity & Metadata Framework
+# Leptothrix Ultimate - Complete Gray Hat Hacking Cybersecurity & Metadata Framework
 
 ---
 
 🚀 Overview
 
-Leptothrix Ultimate is a comprehensive cybersecurity and metadata analysis framework designed for security professionals, forensic analysts, and penetration testers. With over 50+ modules and support for 200+ file types, it provides complete visibility into digital artifacts, cloud metadata, supply chain security, and AI attack vectors.
+Leptothrix Ultimate is a comprehensive gray hat hacking cybersecurity and metadata analysis framework designed for security professionals, forensic analysts, and penetration testers. With over 50+ modules and support for 200+ file types, it provides complete visibility into digital artifacts, cloud metadata, supply chain security, and AI attack vectors.
 
 🎯 Key Features
 
