@@ -1,5 +1,7 @@
 # Leptothrix Ultimate - Complete Gray Hat Hacking Cybersecurity & Metadata Framework
-
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 ---
 
 🚀 Overview
@@ -215,7 +217,9 @@ intel = framework.threat.analyze({
 # - Severity assessment
 # - IOC extraction
 ```
-
+<p align="center">
+  <img src="assets/zanka.gif" alt="Zanka Animation" width="100%">
+</p>
 ---
 
 📈 Reporting
