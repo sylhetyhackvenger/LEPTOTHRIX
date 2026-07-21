@@ -218,7 +218,7 @@ intel = framework.threat.analyze({
 # - IOC extraction
 ```
 <p align="center">
-  <img src="assets/zanka.gif" alt="Zanka Animation" width="100%">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
 </p>
 ---
 
